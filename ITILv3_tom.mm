@@ -75,7 +75,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<node TEXT="Service Strategy" POSITION="left" ID="Freemind_Link_10" CREATED="1342674902826" MODIFIED="1398321425063">
+<node TEXT="Service Strategy" FOLDED="true" POSITION="left" ID="Freemind_Link_10" CREATED="1342674902826" MODIFIED="1398321425063">
 <node TEXT="Demand Management" ID="Freemind_Link_11" CREATED="1342674902826" MODIFIED="1398321825252">
 <edge WIDTH="thin"/>
 <node TEXT="To analyze, track, monitor, and document Patterns of Business Activity (PBA)&#xa; to predict the current and future demand for services and enable the appropriate&#xa; capacity to be delivered at the right cost and at the right time." ID="ID_1008056856" CREATED="1398321372784" MODIFIED="1398321402493"/>
@@ -89,7 +89,7 @@
 <node TEXT="To provide a dynamic method for governing investments in&#xa;service management across the enterprise, and managing them for value." ID="ID_705149163" CREATED="1398321623783" MODIFIED="1398321629876"/>
 </node>
 </node>
-<node TEXT="Service Design" POSITION="left" ID="Freemind_Link_14" CREATED="1342674902827" MODIFIED="1398321444648">
+<node TEXT="Service Design" FOLDED="true" POSITION="left" ID="Freemind_Link_14" CREATED="1342674902827" MODIFIED="1398321444648">
 <node TEXT="Supplier Management" ID="Freemind_Link_15" CREATED="1342674902828" MODIFIED="1398321825271">
 <edge WIDTH="thin"/>
 <node TEXT="To manage suppliers and the service the supply; to provide seamless quality&#xa; of IT services to the business, ensuring value for money is obtained." ID="ID_1576427281" CREATED="1398321638789" MODIFIED="1398321645724"/>
@@ -119,7 +119,7 @@
 <node TEXT="To support the overall Business Continuity Management process by ensuring&#xa;that the required IT technical and service facilities can be resumed within&#xa;required and agreed-upon business timescales." ID="ID_770625036" CREATED="1398321787612" MODIFIED="1398321796236"/>
 </node>
 </node>
-<node TEXT="Anecdotal Summation:" POSITION="right" ID="ID_960110449" CREATED="1398322119002" MODIFIED="1398322261060">
+<node TEXT="Anecdotal Summation:" FOLDED="true" POSITION="right" ID="ID_960110449" CREATED="1398322119002" MODIFIED="1398322261060">
 <node TEXT="Scenario: Constructing a new building&#xa;(courtesy of Mr. Juan Jim&#xe9;nez" ID="ID_1791183063" CREATED="1398322245465" MODIFIED="1398322547168">
 <node ID="ID_178179237" CREATED="1398322245465" MODIFIED="1398322307864"><richcontent TYPE="NODE">
 
@@ -139,7 +139,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1782575713" CREATED="1398322245467" MODIFIED="1398322321596"><richcontent TYPE="NODE">
@@ -160,7 +159,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1948224086" CREATED="1398322245471" MODIFIED="1398322340417"><richcontent TYPE="NODE">
@@ -181,7 +179,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_393873319" CREATED="1398322245475" MODIFIED="1398322354461"><richcontent TYPE="NODE">
@@ -202,7 +199,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_482772917" CREATED="1398322245476" MODIFIED="1398322367173"><richcontent TYPE="NODE">
@@ -220,12 +216,11 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
 </node>
-<node TEXT="CSI" POSITION="right" ID="Freemind_Link_2" CREATED="1342674902830" MODIFIED="1398321495449">
+<node TEXT="CSI" FOLDED="true" POSITION="right" ID="Freemind_Link_2" CREATED="1342674902830" MODIFIED="1398321495449">
 <node TEXT="Define what one Should Measure" ID="Freemind_Link_3" CREATED="1342674902831" MODIFIED="1398321155196"/>
 <node TEXT="Define what one Can Measure" ID="Freemind_Link_4" CREATED="1342674902831" MODIFIED="1398321155199"/>
 <node TEXT="Get Data" ID="Freemind_Link_5" CREATED="1342674902831" MODIFIED="1398321155202"/>
@@ -278,7 +273,7 @@
 <node TEXT="To define and control the components of services and infrastructure,&#xa;and maintain accurate configuration records." ID="ID_548889298" CREATED="1398321978975" MODIFIED="1398321987432"/>
 </node>
 </node>
-<node TEXT="Service Operation" POSITION="left" ID="Freemind_Link_30" CREATED="1342674902835" MODIFIED="1398321467590">
+<node TEXT="Service Operation" FOLDED="true" POSITION="left" ID="Freemind_Link_30" CREATED="1342674902835" MODIFIED="1398321467590">
 <node TEXT="Processes" ID="Freemind_Link_31" CREATED="1342674902835" MODIFIED="1398321811100" COLOR="#276a5d" STYLE="fork">
 <font NAME="Serif" SIZE="14" BOLD="true"/>
 <edge STYLE="sharp_bezier" COLOR="#999999" WIDTH="thin"/>
