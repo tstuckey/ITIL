@@ -1,6 +1,25 @@
 <map version="freeplane 1.2.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="ITIL V3&#xa;Core" FOLDED="false" ID="ID_139410026" CREATED="1292817555031" MODIFIED="1399495211986" LINK="http://itservicemngmt.blogspot.com/">
+<node FOLDED="false" ID="ID_139410026" CREATED="1292817555031" MODIFIED="1399500483631" LINK="http://itservicemngmt.blogspot.com/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      ITIL V3
+    </p>
+    <p style="text-align: center">
+      Core
+    </p>
+    <p style="text-align: center">
+      http://itservicemngmt.blogspot.com/
+    </p>
+  </body>
+</html>
+
+</richcontent>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <hook NAME="MapStyle">
     <properties show_note_icons="true"/>
@@ -57,7 +76,507 @@
 </stylenode>
 </map_styles>
 </hook>
-<node TEXT="Service Design" POSITION="right" ID="ID_518663840" CREATED="1292817555031" MODIFIED="1399495212009"><richcontent TYPE="NOTE">
+<node TEXT="Service Strategy" FOLDED="true" POSITION="right" ID="ID_1747557856" CREATED="1292817555046" MODIFIED="1399495212510"><richcontent TYPE="NOTE">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<font face="Times New Roman" size="1">
+<span style="font-size:9pt">
+<b>Creating the set of services that help achieve business objectives:</b>
+</span>
+</font>
+<font face="Times New Roman">
+<span style="font-size:12pt"/>
+</font>
+</p>
+<p>
+<font face="Times New Roman" size="1">
+<span style="font-size:9pt">A guide to developing the principles of service management into a strategic 
+asset. The framework helps to develop internal and external markets, 
+service assets, the service portfolio, and<br/>
+implementation strategies.</span>
+</font>
+</p>
+<p/>
+</html>
+</richcontent>
+<node TEXT="1. Overview" ID="ID_70532245" CREATED="1292817555046" MODIFIED="1399495212511"><richcontent TYPE="NOTE">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<font face="Times New Roman">
+<span style="font-size:12pt">Creating the set of services that help achieve 
+business objectives.</span>
+</font>
+</p>
+<p/>
+</html>
+</richcontent>
+</node>
+<node TEXT="2. Service Management as a practice" ID="ID_1279895053" CREATED="1292817555046" MODIFIED="1399495212514">
+<node TEXT="What is SM?" ID="ID_517576072" CREATED="1292817555046" MODIFIED="1399495212517"><richcontent TYPE="NOTE">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<p>SM is a set of specialized organizational 
+capabilities for providing value to customers in the 
+form of services.</p>
+</html>
+</richcontent>
+</node>
+<node TEXT="What are services?" ID="ID_1574693157" CREATED="1292817555046" MODIFIED="1399495212519"><richcontent TYPE="NOTE">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<p>A service is a means of delivering value to 
+customers by facilitating outcomes customers want 
+to achieve without the ownership of specific cost 
+and risks.</p>
+<p>Services facilitate outcomes by enhancing the 
+performance of associated tasks and reducing the 
+effect of constraints.</p>
+<p>The result is an increase in the probability of desired 
+outcomes.</p>
+</html>
+</richcontent>
+</node>
+<node TEXT="The business process" ID="ID_30568531" CREATED="1292817555046" MODIFIED="1399495212521"><richcontent TYPE="NOTE">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<p>A process is a set of coordinated combining and 
+implementing resources and capabilities in order to 
+produce an outcome , which directly or indirectly, 
+creates value for an external customer or 
+stakeholder.</p>
+</html>
+</richcontent>
+</node>
+<node TEXT="Principles of SM" ID="ID_1685338227" CREATED="1292817555046" MODIFIED="1399495212522"><richcontent TYPE="NOTE">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Specialization and coordination</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">The agency principle</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Encapsulation
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Separations of concerns</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Modularity</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Loose coupling
+</li>
+</ul>
+</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Principles of systems
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">A system is a group of interacting, 
+interrelated, or interdependant 
+components that form a unified whole, 
+operating together for a common purpose.</li>
+</ul>
+</li>
+</ul>
+</html>
+</richcontent>
+</node>
+<node TEXT="The Service Lifecycle" ID="ID_515433261" CREATED="1292817555046" MODIFIED="1399495212523"><richcontent TYPE="NOTE">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<p>Every core book is an element of the lifecycle:</p>
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Strategy represents policies and objectives</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Progressive phases:
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Design</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Transition</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Operation
+</li>
+</ul>
+</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">CSI represents learning and improvement</li>
+</ul>
+</html>
+</richcontent>
+</node>
+<node TEXT="Functions and processes across the lifecycle" ID="ID_510256285" CREATED="1292817555046" MODIFIED="1399495212524"><richcontent TYPE="NOTE">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<b>Functions:</b>
+</p>
+<blockquote>
+<p style="margin-left:11mm; margin-right:0mm; text-indent:0mm;">Units of organizations specialized to perform 
+certain types of work and be responsible for 
+specific outcomes. They are self-contained 
+with capabilities and resources necessary for 
+their performance and outcomes.</p>
+</blockquote>
+<p>Functions have their own body of knowledge, which 
+accumulates from experience.</p>
+<p>
+<b>Processes:</b>
+</p>
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Are measurable</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Have specific results</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Have customers</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Respond to specific events</li>
+</ul>
+<p>F&amp;P are often mistaken for each other. (Capacity 
+Management example)</p>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="3. Service strategy principles" ID="ID_1475319775" CREATED="1292817555046" MODIFIED="1399495212525">
+<node TEXT="Value creation" ID="ID_1645401325" CREATED="1292817555046" MODIFIED="1399495212528"><richcontent TYPE="NOTE">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Mind the gap</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Marketing mindset</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Framing the value of services</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Communicating utility
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Outcomes supported</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Ownership costs and risks avoided
+</li>
+</ul>
+</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Communicating warranty
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Availability</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Capacity</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Continuity</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Security</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Utility and Warranty combined effects</li>
+</ul>
+</li>
+</ul>
+</html>
+</richcontent>
+</node>
+<node TEXT="Service assets" ID="ID_937295431" CREATED="1292817555062" MODIFIED="1399495212530"><richcontent TYPE="NOTE">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Resources and capabilities</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Business and service units</li>
+</ul>
+</html>
+</richcontent>
+</node>
+<node TEXT="Service provider types" ID="ID_1488295678" CREATED="1292817555062" MODIFIED="1399495212532"><richcontent TYPE="NOTE">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">International service provider (I)</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Shared services unit (II)</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">External service provider (III)</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">How the customers choose?</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Relative advantage of incumbency</li>
+</ul>
+</html>
+</richcontent>
+</node>
+<node TEXT="Service structures" ID="ID_152072536" CREATED="1292817555062" MODIFIED="1399495212533"><richcontent TYPE="NOTE">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Value chains &gt; value networks</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Service Systems</li>
+</ul>
+<p/>
+</html>
+</richcontent>
+</node>
+<node TEXT="SS fundamentals" ID="ID_1051605798" CREATED="1292817555062" MODIFIED="1399495212533"><richcontent TYPE="NOTE">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<i>The essence of strategy is choosing what not to do</i> -
+?Michael E. Porter</p>
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Fundamental aspects of strategy</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Four Ps:
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Perspective</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Position</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Plan</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Pattern</li>
+</ul>
+</li>
+</ul>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="4. Service Strategy" ID="ID_1506113327" CREATED="1292817555062" MODIFIED="1399495212534">
+<node TEXT="Define the market" ID="ID_525539588" CREATED="1292817555062" MODIFIED="1399495212536"><richcontent TYPE="NOTE">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Services &amp; Strategy</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Understand the customer</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Understand the opportunities</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Classify and visualize</li>
+</ul>
+</html>
+</richcontent>
+</node>
+<node TEXT="Develop the offerings" ID="ID_853391905" CREATED="1292817555062" MODIFIED="1399495212537"><richcontent TYPE="NOTE">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Market space</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Outcome-based definition of services</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Service Portfolio, Pipeline and Catalogue</li>
+</ul>
+</html>
+</richcontent>
+</node>
+<node TEXT="Develop strategic assets" ID="ID_4002379" CREATED="1292817555062" MODIFIED="1399495212538"><richcontent TYPE="NOTE">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">SM as a closed loop control system</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">SM as a strategic asset
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Increasing the service potential</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Increasing performance potential</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Demand, capacity and cost</li>
+</ul>
+</li>
+</ul>
+</html>
+</richcontent>
+</node>
+<node TEXT="Prepare for execution" ID="ID_1450347073" CREATED="1292817555062" MODIFIED="1399495212539"><richcontent TYPE="NOTE">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Strategic assesment</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Setting objectives</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Aligning service assets with customer outcomes</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Defining CSFs</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">CSFs and competitive analysis</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Prioritizing investments</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Exploring business potential</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Alignment with customer needs</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Differentiation in market spaces</li>
+</ul>
+<p/>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="5. Service economics" ID="ID_1182138883" CREATED="1292817555062" MODIFIED="1399495212540">
+<node TEXT="Financial management" ID="ID_958224148" CREATED="1292817555062" MODIFIED="1399495212541"><richcontent TYPE="NOTE">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Capabilities:
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Operational visibility</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Insight</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Superior decision making
+</li>
+</ul>
+</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Enterprise value and benefits of FM</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Concepts, inputs and outputs
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Service valuation</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Demand modelling</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Service portfolio management</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Service provisioning optimization</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Planning confidence</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Service investments analysis</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Accounting</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Compliance</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Variable cost dynamics
+</li>
+</ul>
+</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Methods, models, activities and techniques</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Key decisions for financial management
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Cost recovery, value centre or accounting 
+centre?</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Chargeback?</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Financial Management implementation 
+checklist
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: 7mm; margin-right: 0mm; padding-left: 0mm; ">Plan</li>
+<li style="margin-left: 7mm; margin-right: 0mm; padding-left: 0mm; ">Analyse</li>
+<li style="margin-left: 7mm; margin-right: 0mm; padding-left: 0mm; ">Implement</li>
+<li style="margin-left: 7mm; margin-right: 0mm; padding-left: 0mm; ">Measure</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</html>
+</richcontent>
+</node>
+<node TEXT="ROI" ID="ID_872829686" CREATED="1292817555062" MODIFIED="1399495212543"><richcontent TYPE="NOTE">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Business case
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Objectives</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Impact
+</li>
+</ul>
+</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Pre-programme ROI
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Screening decisions (NPV)</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Preference decisions (IRR)
+</li>
+</ul>
+</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Post-programme ROI
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Objectives</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Data collection</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Isolate the effects</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Data to monetary conversion</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Determine programme costs</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Calculate ROI</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Identify qualitative benefits</li>
+</ul>
+</li>
+</ul>
+</html>
+</richcontent>
+</node>
+<node TEXT="Service Portfolio Management" ID="ID_1399208993" CREATED="1292817555062" MODIFIED="1399495212544"><richcontent TYPE="NOTE">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<p>Service Portfolio describes a provider's services in terms of 
+business value.</p>
+<p>Service Portfolio Management is a dynamic method for 
+governing investments in SM accross the enterprise and 
+managing them for value. (WTF???)</p>
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">IT Systems Management - Infrastructure</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">ITSM - IT Activity</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Business SM - Business activity</li>
+</ul>
+<p>
+<br/>
+</p>
+<p>
+<font face="Verdana">
+<span>Strategic Qs:</span>
+</font>
+</p>
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; font-family: Verdana;  ">
+<font face="Verdana">
+<span>Why should a customer buy these services?</span>
+</font>
+</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; font-family: Verdana;  ">
+<font face="Verdana">
+<span>Why would they buy them from us?</span>
+</font>
+</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; font-family: Verdana;  ">
+<font face="Verdana">
+<span>Pricing models?</span>
+</font>
+</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; font-family: Verdana;  ">
+<font face="Verdana">
+<span>Our strengths and weaknesses, priorities and risk?</span>
+</font>
+</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; font-family: Verdana;  ">
+<font face="Verdana">
+<span>How should we allocate our resources and 
+capabilities?</span>
+</font>
+</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: -7mm; font-family: Verdana;  ">
+<br/>
+</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: -7mm; font-family: Verdana;  ">
+<img src="mmnotes://0.png" align="bottom" width="652" height="523" border="0" alt="graphic"/>
+</li>
+</ul>
+</html>
+</richcontent>
+</node>
+<node TEXT="Service Portfolio Management Methods" ID="ID_457351731" CREATED="1292817555062" MODIFIED="1399495212545"><richcontent TYPE="NOTE">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Define</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Analyse</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Approve
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Retain</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Replace</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Rationalize</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Refactor</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Renew</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Retire
+</li>
+</ul>
+</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Charter</li>
+</ul>
+</html>
+</richcontent>
+</node>
+<node TEXT="Demand Management" ID="ID_1409076169" CREATED="1292817555062" MODIFIED="1399495212546"><richcontent TYPE="NOTE">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Challenges</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Activity-based Demand Management</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Business activity patterns and user profiles</li>
+<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Service packages
+<ul style="margin-top: 0pt; margin-bottom: 0pt">
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Core/supporting services</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Developing differentiated offerings</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Service Level Packages</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Advantage of core service packages</li>
+<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Segmentation</li>
+</ul>
+</li>
+</ul>
+<p/>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="6. Strategy and organization" ID="ID_1149260448" CREATED="1292817555062" MODIFIED="1399495212546">
+<node TEXT="Organizatioonal development" ID="ID_983651280" CREATED="1292817555062" MODIFIED="1399495212548"/>
+<node TEXT="Organizational departmentalization" ID="ID_154219331" CREATED="1292817555062" MODIFIED="1399495212549"/>
+<node TEXT="Organizational design" ID="ID_1169136756" CREATED="1292817555062" MODIFIED="1399495212550"/>
+<node TEXT="Organizational culture" ID="ID_1176994362" CREATED="1292817555062" MODIFIED="1399495212551"/>
+<node TEXT="Sourcing strategy" ID="ID_30745077" CREATED="1292817555062" MODIFIED="1399495212552"/>
+</node>
+<node TEXT="7. Strategy, tactics and operations" ID="ID_1589624999" CREATED="1292817555062" MODIFIED="1399495212553">
+<node TEXT="Implementation through the lifecycle" ID="ID_136310049" CREATED="1292817555062" MODIFIED="1399495212554"/>
+<node TEXT="Strategy and design" ID="ID_1829666690" CREATED="1292817555062" MODIFIED="1399495212555"/>
+<node TEXT="Strategy and operations" ID="ID_242698828" CREATED="1292817555062" MODIFIED="1399495212556"/>
+<node TEXT="Strategy and improvement" ID="ID_333784915" CREATED="1292817555062" MODIFIED="1399495212557"/>
+</node>
+<node TEXT="8. Technology and strategy" ID="ID_1820730548" CREATED="1292817555062" MODIFIED="1399495212559">
+<node TEXT="Service automation" ID="ID_1324575608" CREATED="1292817555062" MODIFIED="1399495212560"/>
+<node TEXT="Service interfaces" ID="ID_1760152748" CREATED="1292817555062" MODIFIED="1399495212562"/>
+<node TEXT="Tools for service strategy" ID="ID_1169754108" CREATED="1292817555062" MODIFIED="1399495212563"/>
+</node>
+<node TEXT="9. Challenges, CSFs and risks" ID="ID_315031269" CREATED="1292817555062" MODIFIED="1399495212564">
+<node TEXT="Complexity" ID="ID_792473401" CREATED="1292817555062" MODIFIED="1399495212565"/>
+<node TEXT="Coordination and control" ID="ID_1894043535" CREATED="1292817555062" MODIFIED="1399495212567"/>
+<node TEXT="Preserving value" ID="ID_34393022" CREATED="1292817555062" MODIFIED="1399495212568"/>
+<node TEXT="Effectiveness in measurement" ID="ID_1251334695" CREATED="1292817555062" MODIFIED="1399495212569"/>
+<node TEXT="Risks" ID="ID_1606641246" CREATED="1292817555062" MODIFIED="1399495212570"/>
+</node>
+</node>
+<node TEXT="Service Design" FOLDED="true" POSITION="right" ID="ID_518663840" CREATED="1292817555031" MODIFIED="1399495212009"><richcontent TYPE="NOTE">
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <p>
@@ -665,7 +1184,115 @@ SKMS</span>
 <node TEXT="" ID="ID_1898699857" CREATED="1292817555046" MODIFIED="1399495212161"/>
 </node>
 </node>
-<node TEXT="Service Operation" POSITION="right" ID="ID_1286114185" CREATED="1292817555046" MODIFIED="1399495212162"><richcontent TYPE="NOTE">
+<node TEXT="Service Transition" POSITION="right" ID="ID_861134638" CREATED="1292817555046" MODIFIED="1399495212351"><richcontent TYPE="NOTE">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<font face="Times New Roman" size="1">
+<span style="font-size:9pt">
+<b>How to change live production infrastructure, implementing the 
+needed services.</b>
+</span>
+</font>
+<font face="Times New Roman">
+<span style="font-size:12pt"/>
+</font>
+</p>
+<p>
+<font face="Times New Roman" size="1">
+<span style="font-size:9pt">A guide to develop methods for introducing requests for changes to the 
+developed services into the live environment. The framework assists in the 
+development of processes that minimize disruption to the environment 
+through the establishment of controlled processes developed from the 
+requirements in the Strategy framework and created from the design 
+framework.</span>
+</font>
+</p>
+<p/>
+</html>
+</richcontent>
+<node TEXT="1. Intro:&#xa;How to change live production infrastructure, implementing the needed services." ID="ID_1805745247" CREATED="1292817555046" MODIFIED="1399500382963"/>
+<node TEXT="2. SM as a practice" ID="ID_1153241476" CREATED="1292817555046" MODIFIED="1399495212355">
+<node TEXT="What is service management?" ID="ID_1698610871" CREATED="1292817555046" MODIFIED="1399495212358"/>
+<node TEXT="What are services?" ID="ID_872535201" CREATED="1292817555046" MODIFIED="1399495212359"/>
+<node TEXT="Functions and processes across the lifecycle" ID="ID_1025578515" CREATED="1292817555046" MODIFIED="1399495212360"/>
+<node TEXT="ST fundamentals" ID="ID_89800536" CREATED="1292817555046" MODIFIED="1399495212362"/>
+</node>
+<node TEXT="3. ST principles" ID="ID_1729620493" CREATED="1292817555046" MODIFIED="1399495212364">
+<node TEXT="Principles supporting ST" ID="ID_1538164916" CREATED="1292817555046" MODIFIED="1399495212367"/>
+<node TEXT="Policies for ST" ID="ID_1362895163" CREATED="1292817555046" MODIFIED="1399495212368"/>
+</node>
+<node TEXT="4. ST processes" ID="ID_172081612" CREATED="1292817555046" MODIFIED="1399495212377">
+<node TEXT="Transition planning and support" ID="ID_762131674" CREATED="1292817555046" MODIFIED="1399495212388"/>
+<node TEXT="Change Management" ID="ID_243312882" CREATED="1292817555046" MODIFIED="1399495212391"/>
+<node TEXT="Service Asset and Configuration Management" ID="ID_1147622031" CREATED="1292817555046" MODIFIED="1399495212393"><richcontent TYPE="NOTE">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<p style="margin-left:0mm; margin-right:0mm; text-indent:0mm;">
+<font face="Times New Roman" color="#2e1700">
+<span style="font-size:12pt">The Configuration Management process is now part of the 
+SACM process within the Service Transition phase. It has 
+been integrated with AM in order to provide a more 
+comprehensive management of the service assets that help in 
+the performance of the other service management processes. </span>
+</font>
+</p>
+<p style="margin-left:0mm; margin-right:0mm; text-indent:0mm;">
+<font face="Times New Roman" color="#2e1700">
+<span style="font-size:12pt">In V3, configuration management is just a set of tasks under 
+the bigger SACM process, which now oversees a broader 
+array of assets, called service assets. </span>
+</font>
+</p>
+<p style="margin-left:0mm; margin-right:0mm; text-indent:0mm;">
+<font face="Times New Roman" color="#2e1700">
+<span style="font-size:12pt">The logical model used by configuration management has 
+been enhanced and includes the services, assets and 
+infrastructure and relationships among the CIs. </span>
+</font>
+</p>
+<p>
+<font face="Times New Roman" color="#2e1700">
+<span style="font-size:12pt">In addition, this logical model is the only model used 
+throughout the different IT service management processes, 
+and even by other business functions such as human 
+resources, finance, the suppliers and their customers.</span>
+</font>
+</p>
+</html>
+</richcontent>
+</node>
+<node TEXT="Release and Delpoyment Management" ID="ID_917044535" CREATED="1292817555046" MODIFIED="1399495212397"/>
+<node TEXT="Service Validation and Testing" ID="ID_1631354890" CREATED="1292817555046" MODIFIED="1399495212399"/>
+<node TEXT="Evaluation" ID="ID_1720607175" CREATED="1292817555046" MODIFIED="1399495212401"/>
+<node TEXT="Knowledge Management" ID="ID_425745064" CREATED="1292817555046" MODIFIED="1399495212402"/>
+</node>
+<node TEXT="5. ST common operation activities" ID="ID_789997938" CREATED="1292817555046" MODIFIED="1399495212403">
+<node TEXT="Managing communications and commitment" ID="ID_1883239297" CREATED="1292817555046" MODIFIED="1399495212405"/>
+<node TEXT="Managing organization and stakeholder change" ID="ID_1165332250" CREATED="1292817555046" MODIFIED="1399495212406"/>
+<node TEXT="Stakeholder management" ID="ID_130796116" CREATED="1292817555046" MODIFIED="1399495212407"/>
+</node>
+<node TEXT="6. Organizing for ST" ID="ID_763671387" CREATED="1292817555046" MODIFIED="1399495212408">
+<node TEXT="Generic roles" ID="ID_241769719" CREATED="1292817555046" MODIFIED="1399495212409"/>
+<node TEXT="Organiaztional context for transitioning a service" ID="ID_386706668" CREATED="1292817555046" MODIFIED="1399495212410"/>
+<node TEXT="Organization models to support ST" ID="ID_519048533" CREATED="1292817555046" MODIFIED="1399495212412"/>
+<node TEXT="ST relations with other lifecycle stages" ID="ID_1008861363" CREATED="1292817555046" MODIFIED="1399495212413"/>
+</node>
+<node TEXT="7. Technology considerations" ID="ID_1325761820" CREATED="1292817555046" MODIFIED="1399495212413">
+<node TEXT="Knowledge Management tools " ID="ID_255771412" CREATED="1292817555046" MODIFIED="1399495212415"/>
+<node TEXT="Collaboration" ID="ID_913792617" CREATED="1292817555046" MODIFIED="1399495212416"/>
+<node TEXT="Configuration Management System" ID="ID_1179168178" CREATED="1292817555046" MODIFIED="1399495212417"/>
+</node>
+<node TEXT="8. Implementnig ST" ID="ID_1874620195" CREATED="1292817555046" MODIFIED="1399495212418">
+<node TEXT="Stages of introducing ST" ID="ID_927885590" CREATED="1292817555046" MODIFIED="1399495212419"/>
+</node>
+<node TEXT="9. Challenges, CSFs and risks" ID="ID_1280349931" CREATED="1292817555046" MODIFIED="1399495212419">
+<node TEXT="Challenges" ID="ID_842695568" CREATED="1292817555046" MODIFIED="1399495212420"/>
+<node TEXT="CSFs" ID="ID_71253230" CREATED="1292817555046" MODIFIED="1399495212421"/>
+<node TEXT="ST under difficult conditions" ID="ID_298027237" CREATED="1292817555046" MODIFIED="1399495212422"/>
+</node>
+</node>
+<node TEXT="Service Operation" FOLDED="true" POSITION="right" ID="ID_1286114185" CREATED="1292817555046" MODIFIED="1399495212162"><richcontent TYPE="NOTE">
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <p>
@@ -874,127 +1501,7 @@ and risks.</span>
 </node>
 <node TEXT="AF Physical Access Control" ID="ID_721505972" CREATED="1292817555046" MODIFIED="1399495212350"/>
 </node>
-<node TEXT="Service Transition" POSITION="right" ID="ID_861134638" CREATED="1292817555046" MODIFIED="1399495212351"><richcontent TYPE="NOTE">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<p>
-<font face="Times New Roman" size="1">
-<span style="font-size:9pt">
-<b>How to change live production infrastructure, implementing the 
-needed services.</b>
-</span>
-</font>
-<font face="Times New Roman">
-<span style="font-size:12pt"/>
-</font>
-</p>
-<p>
-<font face="Times New Roman" size="1">
-<span style="font-size:9pt">A guide to develop methods for introducing requests for changes to the 
-developed services into the live environment. The framework assists in the 
-development of processes that minimize disruption to the environment 
-through the establishment of controlled processes developed from the 
-requirements in the Strategy framework and created from the design 
-framework.</span>
-</font>
-</p>
-<p/>
-</html>
-</richcontent>
-<node TEXT="1. Intro" ID="ID_1805745247" CREATED="1292817555046" MODIFIED="1399495212353"><richcontent TYPE="NOTE">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<p>
-<font face="Times New Roman">
-<span style="font-size:12pt">How to change live production infrastructure, 
-implementing the needed services.</span>
-</font>
-</p>
-<p/>
-</html>
-</richcontent>
-</node>
-<node TEXT="2. SM as a practice" ID="ID_1153241476" CREATED="1292817555046" MODIFIED="1399495212355">
-<node TEXT="What is service management?" ID="ID_1698610871" CREATED="1292817555046" MODIFIED="1399495212358"/>
-<node TEXT="What are services?" ID="ID_872535201" CREATED="1292817555046" MODIFIED="1399495212359"/>
-<node TEXT="Functions and processes across the lifecycle" ID="ID_1025578515" CREATED="1292817555046" MODIFIED="1399495212360"/>
-<node TEXT="ST fundamentals" ID="ID_89800536" CREATED="1292817555046" MODIFIED="1399495212362"/>
-</node>
-<node TEXT="3. ST principles" ID="ID_1729620493" CREATED="1292817555046" MODIFIED="1399495212364">
-<node TEXT="Principles supporting ST" ID="ID_1538164916" CREATED="1292817555046" MODIFIED="1399495212367"/>
-<node TEXT="Policies for ST" ID="ID_1362895163" CREATED="1292817555046" MODIFIED="1399495212368"/>
-</node>
-<node TEXT="4. ST processes" ID="ID_172081612" CREATED="1292817555046" MODIFIED="1399495212377">
-<node TEXT="Transition planning and support" ID="ID_762131674" CREATED="1292817555046" MODIFIED="1399495212388"/>
-<node TEXT="Change Management" ID="ID_243312882" CREATED="1292817555046" MODIFIED="1399495212391"/>
-<node TEXT="Service Asset and Configuration Management" ID="ID_1147622031" CREATED="1292817555046" MODIFIED="1399495212393"><richcontent TYPE="NOTE">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<p style="margin-left:0mm; margin-right:0mm; text-indent:0mm;">
-<font face="Times New Roman" color="#2e1700">
-<span style="font-size:12pt">The Configuration Management process is now part of the 
-SACM process within the Service Transition phase. It has 
-been integrated with AM in order to provide a more 
-comprehensive management of the service assets that help in 
-the performance of the other service management processes. </span>
-</font>
-</p>
-<p style="margin-left:0mm; margin-right:0mm; text-indent:0mm;">
-<font face="Times New Roman" color="#2e1700">
-<span style="font-size:12pt">In V3, configuration management is just a set of tasks under 
-the bigger SACM process, which now oversees a broader 
-array of assets, called service assets. </span>
-</font>
-</p>
-<p style="margin-left:0mm; margin-right:0mm; text-indent:0mm;">
-<font face="Times New Roman" color="#2e1700">
-<span style="font-size:12pt">The logical model used by configuration management has 
-been enhanced and includes the services, assets and 
-infrastructure and relationships among the CIs. </span>
-</font>
-</p>
-<p>
-<font face="Times New Roman" color="#2e1700">
-<span style="font-size:12pt">In addition, this logical model is the only model used 
-throughout the different IT service management processes, 
-and even by other business functions such as human 
-resources, finance, the suppliers and their customers.</span>
-</font>
-</p>
-</html>
-</richcontent>
-</node>
-<node TEXT="Release and Delpoyment Management" ID="ID_917044535" CREATED="1292817555046" MODIFIED="1399495212397"/>
-<node TEXT="Service Validation and Testing" ID="ID_1631354890" CREATED="1292817555046" MODIFIED="1399495212399"/>
-<node TEXT="Evaluation" ID="ID_1720607175" CREATED="1292817555046" MODIFIED="1399495212401"/>
-<node TEXT="Knowledge Management" ID="ID_425745064" CREATED="1292817555046" MODIFIED="1399495212402"/>
-</node>
-<node TEXT="5. ST common operation activities" ID="ID_789997938" CREATED="1292817555046" MODIFIED="1399495212403">
-<node TEXT="Managing communications and commitment" ID="ID_1883239297" CREATED="1292817555046" MODIFIED="1399495212405"/>
-<node TEXT="Managing organization and stakeholder change" ID="ID_1165332250" CREATED="1292817555046" MODIFIED="1399495212406"/>
-<node TEXT="Stakeholder management" ID="ID_130796116" CREATED="1292817555046" MODIFIED="1399495212407"/>
-</node>
-<node TEXT="6. Organizing for ST" ID="ID_763671387" CREATED="1292817555046" MODIFIED="1399495212408">
-<node TEXT="Generic roles" ID="ID_241769719" CREATED="1292817555046" MODIFIED="1399495212409"/>
-<node TEXT="Organiaztional context for transitioning a service" ID="ID_386706668" CREATED="1292817555046" MODIFIED="1399495212410"/>
-<node TEXT="Organization models to support ST" ID="ID_519048533" CREATED="1292817555046" MODIFIED="1399495212412"/>
-<node TEXT="ST relations with other lifecycle stages" ID="ID_1008861363" CREATED="1292817555046" MODIFIED="1399495212413"/>
-</node>
-<node TEXT="7. Technology considerations" ID="ID_1325761820" CREATED="1292817555046" MODIFIED="1399495212413">
-<node TEXT="Knowledge Management tools " ID="ID_255771412" CREATED="1292817555046" MODIFIED="1399495212415"/>
-<node TEXT="Collaboration" ID="ID_913792617" CREATED="1292817555046" MODIFIED="1399495212416"/>
-<node TEXT="Configuration Management System" ID="ID_1179168178" CREATED="1292817555046" MODIFIED="1399495212417"/>
-</node>
-<node TEXT="8. Implementnig ST" ID="ID_1874620195" CREATED="1292817555046" MODIFIED="1399495212418">
-<node TEXT="Stages of introducing ST" ID="ID_927885590" CREATED="1292817555046" MODIFIED="1399495212419"/>
-</node>
-<node TEXT="9. Challenges, CSFs and risks" ID="ID_1280349931" CREATED="1292817555046" MODIFIED="1399495212419">
-<node TEXT="Challenges" ID="ID_842695568" CREATED="1292817555046" MODIFIED="1399495212420"/>
-<node TEXT="CSFs" ID="ID_71253230" CREATED="1292817555046" MODIFIED="1399495212421"/>
-<node TEXT="ST under difficult conditions" ID="ID_298027237" CREATED="1292817555046" MODIFIED="1399495212422"/>
-</node>
-</node>
-<node TEXT="Continual Service Improvement" POSITION="left" ID="ID_531183517" CREATED="1292817555046" MODIFIED="1399495212423"><richcontent TYPE="NOTE">
+<node TEXT="Continual Service Improvement" FOLDED="true" POSITION="left" ID="ID_531183517" CREATED="1292817555046" MODIFIED="1399495212423"><richcontent TYPE="NOTE">
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <p>
@@ -1088,506 +1595,6 @@ business goals. </span>
 <node TEXT="Critical success factors" ID="ID_1911030292" CREATED="1292817555046" MODIFIED="1399495212507"/>
 <node TEXT="Risks" ID="ID_637054043" CREATED="1292817555046" MODIFIED="1399495212508"/>
 <node TEXT="Summary" ID="ID_403195667" CREATED="1292817555046" MODIFIED="1399495212509"/>
-</node>
-</node>
-<node TEXT="Service Strategy" POSITION="left" ID="ID_1747557856" CREATED="1292817555046" MODIFIED="1399495212510"><richcontent TYPE="NOTE">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<p>
-<font face="Times New Roman" size="1">
-<span style="font-size:9pt">
-<b>Creating the set of services that help achieve business objectives:</b>
-</span>
-</font>
-<font face="Times New Roman">
-<span style="font-size:12pt"/>
-</font>
-</p>
-<p>
-<font face="Times New Roman" size="1">
-<span style="font-size:9pt">A guide to developing the principles of service management into a strategic 
-asset. The framework helps to develop internal and external markets, 
-service assets, the service portfolio, and<br/>
-implementation strategies.</span>
-</font>
-</p>
-<p/>
-</html>
-</richcontent>
-<node TEXT="1. Overview" ID="ID_70532245" CREATED="1292817555046" MODIFIED="1399495212511"><richcontent TYPE="NOTE">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<p>
-<font face="Times New Roman">
-<span style="font-size:12pt">Creating the set of services that help achieve 
-business objectives.</span>
-</font>
-</p>
-<p/>
-</html>
-</richcontent>
-</node>
-<node TEXT="2. Service Management as a practice" ID="ID_1279895053" CREATED="1292817555046" MODIFIED="1399495212514">
-<node TEXT="What is SM?" ID="ID_517576072" CREATED="1292817555046" MODIFIED="1399495212517"><richcontent TYPE="NOTE">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<p>SM is a set of specialized organizational 
-capabilities for providing value to customers in the 
-form of services.</p>
-</html>
-</richcontent>
-</node>
-<node TEXT="What are services?" ID="ID_1574693157" CREATED="1292817555046" MODIFIED="1399495212519"><richcontent TYPE="NOTE">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<p>A service is a means of delivering value to 
-customers by facilitating outcomes customers want 
-to achieve without the ownership of specific cost 
-and risks.</p>
-<p>Services facilitate outcomes by enhancing the 
-performance of associated tasks and reducing the 
-effect of constraints.</p>
-<p>The result is an increase in the probability of desired 
-outcomes.</p>
-</html>
-</richcontent>
-</node>
-<node TEXT="The business process" ID="ID_30568531" CREATED="1292817555046" MODIFIED="1399495212521"><richcontent TYPE="NOTE">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<p>A process is a set of coordinated combining and 
-implementing resources and capabilities in order to 
-produce an outcome , which directly or indirectly, 
-creates value for an external customer or 
-stakeholder.</p>
-</html>
-</richcontent>
-</node>
-<node TEXT="Principles of SM" ID="ID_1685338227" CREATED="1292817555046" MODIFIED="1399495212522"><richcontent TYPE="NOTE">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Specialization and coordination</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">The agency principle</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Encapsulation
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Separations of concerns</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Modularity</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Loose coupling
-</li>
-</ul>
-</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Principles of systems
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">A system is a group of interacting, 
-interrelated, or interdependant 
-components that form a unified whole, 
-operating together for a common purpose.</li>
-</ul>
-</li>
-</ul>
-</html>
-</richcontent>
-</node>
-<node TEXT="The Service Lifecycle" ID="ID_515433261" CREATED="1292817555046" MODIFIED="1399495212523"><richcontent TYPE="NOTE">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<p>Every core book is an element of the lifecycle:</p>
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Strategy represents policies and objectives</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Progressive phases:
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Design</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Transition</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Operation
-</li>
-</ul>
-</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">CSI represents learning and improvement</li>
-</ul>
-</html>
-</richcontent>
-</node>
-<node TEXT="Functions and processes across the lifecycle" ID="ID_510256285" CREATED="1292817555046" MODIFIED="1399495212524"><richcontent TYPE="NOTE">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<p>
-<b>Functions:</b>
-</p>
-<blockquote>
-<p style="margin-left:11mm; margin-right:0mm; text-indent:0mm;">Units of organizations specialized to perform 
-certain types of work and be responsible for 
-specific outcomes. They are self-contained 
-with capabilities and resources necessary for 
-their performance and outcomes.</p>
-</blockquote>
-<p>Functions have their own body of knowledge, which 
-accumulates from experience.</p>
-<p>
-<b>Processes:</b>
-</p>
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Are measurable</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Have specific results</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Have customers</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Respond to specific events</li>
-</ul>
-<p>F&amp;P are often mistaken for each other. (Capacity 
-Management example)</p>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="3. Service strategy principles" ID="ID_1475319775" CREATED="1292817555046" MODIFIED="1399495212525">
-<node TEXT="Value creation" ID="ID_1645401325" CREATED="1292817555046" MODIFIED="1399495212528"><richcontent TYPE="NOTE">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Mind the gap</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Marketing mindset</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Framing the value of services</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Communicating utility
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Outcomes supported</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Ownership costs and risks avoided
-</li>
-</ul>
-</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Communicating warranty
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Availability</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Capacity</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Continuity</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Security</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Utility and Warranty combined effects</li>
-</ul>
-</li>
-</ul>
-</html>
-</richcontent>
-</node>
-<node TEXT="Service assets" ID="ID_937295431" CREATED="1292817555062" MODIFIED="1399495212530"><richcontent TYPE="NOTE">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Resources and capabilities</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Business and service units</li>
-</ul>
-</html>
-</richcontent>
-</node>
-<node TEXT="Service provider types" ID="ID_1488295678" CREATED="1292817555062" MODIFIED="1399495212532"><richcontent TYPE="NOTE">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">International service provider (I)</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Shared services unit (II)</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">External service provider (III)</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">How the customers choose?</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Relative advantage of incumbency</li>
-</ul>
-</html>
-</richcontent>
-</node>
-<node TEXT="Service structures" ID="ID_152072536" CREATED="1292817555062" MODIFIED="1399495212533"><richcontent TYPE="NOTE">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Value chains &gt; value networks</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Service Systems</li>
-</ul>
-<p/>
-</html>
-</richcontent>
-</node>
-<node TEXT="SS fundamentals" ID="ID_1051605798" CREATED="1292817555062" MODIFIED="1399495212533"><richcontent TYPE="NOTE">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<p>
-<i>The essence of strategy is choosing what not to do</i> -
-?Michael E. Porter</p>
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Fundamental aspects of strategy</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Four Ps:
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Perspective</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Position</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Plan</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Pattern</li>
-</ul>
-</li>
-</ul>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="4. Service Strategy" ID="ID_1506113327" CREATED="1292817555062" MODIFIED="1399495212534">
-<node TEXT="Define the market" ID="ID_525539588" CREATED="1292817555062" MODIFIED="1399495212536"><richcontent TYPE="NOTE">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Services &amp; Strategy</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Understand the customer</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Understand the opportunities</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Classify and visualize</li>
-</ul>
-</html>
-</richcontent>
-</node>
-<node TEXT="Develop the offerings" ID="ID_853391905" CREATED="1292817555062" MODIFIED="1399495212537"><richcontent TYPE="NOTE">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Market space</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Outcome-based definition of services</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Service Portfolio, Pipeline and Catalogue</li>
-</ul>
-</html>
-</richcontent>
-</node>
-<node TEXT="Develop strategic assets" ID="ID_4002379" CREATED="1292817555062" MODIFIED="1399495212538"><richcontent TYPE="NOTE">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">SM as a closed loop control system</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">SM as a strategic asset
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Increasing the service potential</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Increasing performance potential</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Demand, capacity and cost</li>
-</ul>
-</li>
-</ul>
-</html>
-</richcontent>
-</node>
-<node TEXT="Prepare for execution" ID="ID_1450347073" CREATED="1292817555062" MODIFIED="1399495212539"><richcontent TYPE="NOTE">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Strategic assesment</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Setting objectives</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Aligning service assets with customer outcomes</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Defining CSFs</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">CSFs and competitive analysis</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Prioritizing investments</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Exploring business potential</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Alignment with customer needs</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Differentiation in market spaces</li>
-</ul>
-<p/>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="5. Service economics" ID="ID_1182138883" CREATED="1292817555062" MODIFIED="1399495212540">
-<node TEXT="Financial management" ID="ID_958224148" CREATED="1292817555062" MODIFIED="1399495212541"><richcontent TYPE="NOTE">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Capabilities:
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Operational visibility</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Insight</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Superior decision making
-</li>
-</ul>
-</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Enterprise value and benefits of FM</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Concepts, inputs and outputs
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Service valuation</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Demand modelling</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Service portfolio management</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Service provisioning optimization</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Planning confidence</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Service investments analysis</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Accounting</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Compliance</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Variable cost dynamics
-</li>
-</ul>
-</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Methods, models, activities and techniques</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Key decisions for financial management
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Cost recovery, value centre or accounting 
-centre?</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Chargeback?</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Financial Management implementation 
-checklist
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: 7mm; margin-right: 0mm; padding-left: 0mm; ">Plan</li>
-<li style="margin-left: 7mm; margin-right: 0mm; padding-left: 0mm; ">Analyse</li>
-<li style="margin-left: 7mm; margin-right: 0mm; padding-left: 0mm; ">Implement</li>
-<li style="margin-left: 7mm; margin-right: 0mm; padding-left: 0mm; ">Measure</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</html>
-</richcontent>
-</node>
-<node TEXT="ROI" ID="ID_872829686" CREATED="1292817555062" MODIFIED="1399495212543"><richcontent TYPE="NOTE">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Business case
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Objectives</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Impact
-</li>
-</ul>
-</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Pre-programme ROI
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Screening decisions (NPV)</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Preference decisions (IRR)
-</li>
-</ul>
-</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Post-programme ROI
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Objectives</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Data collection</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Isolate the effects</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Data to monetary conversion</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Determine programme costs</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Calculate ROI</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Identify qualitative benefits</li>
-</ul>
-</li>
-</ul>
-</html>
-</richcontent>
-</node>
-<node TEXT="Service Portfolio Management" ID="ID_1399208993" CREATED="1292817555062" MODIFIED="1399495212544"><richcontent TYPE="NOTE">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<p>Service Portfolio describes a provider's services in terms of 
-business value.</p>
-<p>Service Portfolio Management is a dynamic method for 
-governing investments in SM accross the enterprise and 
-managing them for value. (WTF???)</p>
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">IT Systems Management - Infrastructure</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">ITSM - IT Activity</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Business SM - Business activity</li>
-</ul>
-<p>
-<br/>
-</p>
-<p>
-<font face="Verdana">
-<span>Strategic Qs:</span>
-</font>
-</p>
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; font-family: Verdana;  ">
-<font face="Verdana">
-<span>Why should a customer buy these services?</span>
-</font>
-</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; font-family: Verdana;  ">
-<font face="Verdana">
-<span>Why would they buy them from us?</span>
-</font>
-</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; font-family: Verdana;  ">
-<font face="Verdana">
-<span>Pricing models?</span>
-</font>
-</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; font-family: Verdana;  ">
-<font face="Verdana">
-<span>Our strengths and weaknesses, priorities and risk?</span>
-</font>
-</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; font-family: Verdana;  ">
-<font face="Verdana">
-<span>How should we allocate our resources and 
-capabilities?</span>
-</font>
-</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: -7mm; font-family: Verdana;  ">
-<br/>
-</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: -7mm; font-family: Verdana;  ">
-<img src="mmnotes://0.png" align="bottom" width="652" height="523" border="0" alt="graphic"/>
-</li>
-</ul>
-</html>
-</richcontent>
-</node>
-<node TEXT="Service Portfolio Management Methods" ID="ID_457351731" CREATED="1292817555062" MODIFIED="1399495212545"><richcontent TYPE="NOTE">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Define</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Analyse</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Approve
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Retain</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Replace</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Rationalize</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Refactor</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Renew</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Retire
-</li>
-</ul>
-</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Charter</li>
-</ul>
-</html>
-</richcontent>
-</node>
-<node TEXT="Demand Management" ID="ID_1409076169" CREATED="1292817555062" MODIFIED="1399495212546"><richcontent TYPE="NOTE">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Challenges</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Activity-based Demand Management</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Business activity patterns and user profiles</li>
-<li style="margin-left: -4mm; margin-right: 0mm; padding-left: 0mm; ">Service packages
-<ul style="margin-top: 0pt; margin-bottom: 0pt">
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Core/supporting services</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Developing differentiated offerings</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Service Level Packages</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Advantage of core service packages</li>
-<li style="margin-left: 1mm; margin-right: 0mm; padding-left: 0mm; ">Segmentation</li>
-</ul>
-</li>
-</ul>
-<p/>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="6. Strategy and organization" ID="ID_1149260448" CREATED="1292817555062" MODIFIED="1399495212546">
-<node TEXT="Organizatioonal development" ID="ID_983651280" CREATED="1292817555062" MODIFIED="1399495212548"/>
-<node TEXT="Organizational departmentalization" ID="ID_154219331" CREATED="1292817555062" MODIFIED="1399495212549"/>
-<node TEXT="Organizational design" ID="ID_1169136756" CREATED="1292817555062" MODIFIED="1399495212550"/>
-<node TEXT="Organizational culture" ID="ID_1176994362" CREATED="1292817555062" MODIFIED="1399495212551"/>
-<node TEXT="Sourcing strategy" ID="ID_30745077" CREATED="1292817555062" MODIFIED="1399495212552"/>
-</node>
-<node TEXT="7. Strategy, tactics and operations" ID="ID_1589624999" CREATED="1292817555062" MODIFIED="1399495212553">
-<node TEXT="Implementation through the lifecycle" ID="ID_136310049" CREATED="1292817555062" MODIFIED="1399495212554"/>
-<node TEXT="Strategy and design" ID="ID_1829666690" CREATED="1292817555062" MODIFIED="1399495212555"/>
-<node TEXT="Strategy and operations" ID="ID_242698828" CREATED="1292817555062" MODIFIED="1399495212556"/>
-<node TEXT="Strategy and improvement" ID="ID_333784915" CREATED="1292817555062" MODIFIED="1399495212557"/>
-</node>
-<node TEXT="8. Technology and strategy" ID="ID_1820730548" CREATED="1292817555062" MODIFIED="1399495212559">
-<node TEXT="Service automation" ID="ID_1324575608" CREATED="1292817555062" MODIFIED="1399495212560"/>
-<node TEXT="Service interfaces" ID="ID_1760152748" CREATED="1292817555062" MODIFIED="1399495212562"/>
-<node TEXT="Tools for service strategy" ID="ID_1169754108" CREATED="1292817555062" MODIFIED="1399495212563"/>
-</node>
-<node TEXT="9. Challenges, CSFs and risks" ID="ID_315031269" CREATED="1292817555062" MODIFIED="1399495212564">
-<node TEXT="Complexity" ID="ID_792473401" CREATED="1292817555062" MODIFIED="1399495212565"/>
-<node TEXT="Coordination and control" ID="ID_1894043535" CREATED="1292817555062" MODIFIED="1399495212567"/>
-<node TEXT="Preserving value" ID="ID_34393022" CREATED="1292817555062" MODIFIED="1399495212568"/>
-<node TEXT="Effectiveness in measurement" ID="ID_1251334695" CREATED="1292817555062" MODIFIED="1399495212569"/>
-<node TEXT="Risks" ID="ID_1606641246" CREATED="1292817555062" MODIFIED="1399495212570"/>
 </node>
 </node>
 </node>
