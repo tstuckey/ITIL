@@ -299,9 +299,29 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <font BOLD="false"/>
+</node>
+<node ID="ID_826826813" CREATED="1411678290791" MODIFIED="1411678326924"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>System</b>:
+    </p>
+    <p>
+      a number of related things that work together to achieve an
+    </p>
+    <p>
+      overall Objective
+    </p>
+  </body>
+</html>
+
+</richcontent>
 </node>
 <node ID="ID_1880629173" CREATED="1410880881770" MODIFIED="1411503452097"><richcontent TYPE="NODE">
 
@@ -327,7 +347,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <font BOLD="false"/>
 <node TEXT="A process may define:" ID="ID_1213033717" CREATED="1410880881777" MODIFIED="1410880881777">
@@ -353,7 +372,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_789008048" CREATED="1411428881939" MODIFIED="1411503440460"><richcontent TYPE="NODE">
@@ -371,7 +389,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_410464528" CREATED="1411428881942" MODIFIED="1411503445259"><richcontent TYPE="NODE">
@@ -389,7 +406,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_606642712" CREATED="1411503565917" MODIFIED="1411503585340"><richcontent TYPE="NODE">
@@ -407,7 +423,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1619297379" CREATED="1411503565918" MODIFIED="1411503595169"><richcontent TYPE="NODE">
@@ -425,7 +440,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_206881347" CREATED="1411503565920" MODIFIED="1411503601296"><richcontent TYPE="NODE">
@@ -443,7 +457,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
