@@ -275,7 +275,7 @@
 </node>
 </node>
 <node TEXT="Defintions" POSITION="right" ID="ID_1319561426" CREATED="1411428657538" MODIFIED="1411428658926">
-<node ID="ID_945538411" CREATED="1410880881770" MODIFIED="1411503449219"><richcontent TYPE="NODE">
+<node ID="ID_945538411" CREATED="1410880881770" MODIFIED="1412003153550"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -291,14 +291,9 @@
     <p>
       customers want to achieve without the ownership of specific costs and risks.
     </p>
-    <p>
-      The term &#8216;service&#8217; is sometimes used as a synonym for core services,
-    </p>
-    <p>
-      IT service or service package.
-    </p>
   </body>
 </html>
+
 </richcontent>
 <font BOLD="false"/>
 </node>
@@ -320,7 +315,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1880629173" CREATED="1410880881770" MODIFIED="1411503452097"><richcontent TYPE="NODE">
