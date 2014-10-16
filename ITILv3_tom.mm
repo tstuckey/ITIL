@@ -293,7 +293,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <font BOLD="false"/>
 </node>
@@ -367,6 +366,74 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="Change categories" ID="ID_1911632822" CREATED="1413406569375" MODIFIED="1413406580250">
+<node ID="ID_988674220" CREATED="1413406580675" MODIFIED="1413406641912"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Standard Change:</b>
+    </p>
+    <p>
+      change to service or infrastructure for
+    </p>
+    <p>
+      which the approach is pre-authorized
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_1238079076" CREATED="1413406797903" MODIFIED="1413406836496"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Normal Change</b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_606027136" CREATED="1413407980500" MODIFIED="1413407999615"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Major Change</b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_1088571031" CREATED="1413407984333" MODIFIED="1413407992402"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Emergency Change</b>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
 </node>
 <node ID="ID_789008048" CREATED="1411428881939" MODIFIED="1411503440460"><richcontent TYPE="NODE">
 
