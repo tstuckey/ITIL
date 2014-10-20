@@ -245,7 +245,7 @@
 <node TEXT="Service Validation and Testing" ID="Freemind_Link_28" CREATED="1342674902834" MODIFIED="1411428998967">
 <node TEXT="The process responsible for validation and testing of a new or changed service;&#xa;it ensures that the service matches its design specification and will meet the needs of the business." ID="ID_1857982077" CREATED="1398321960773" MODIFIED="1411428998967"/>
 </node>
-<node TEXT="Service Asset and Confiugation Management" ID="Freemind_Link_29" CREATED="1342674902834" MODIFIED="1411428998969">
+<node TEXT="Service Asset and Configuration Management (SACM)" ID="Freemind_Link_29" CREATED="1342674902834" MODIFIED="1413481038718">
 <node TEXT="To define and control the components of services and infrastructure,&#xa;and maintain accurate configuration records." ID="ID_548889298" CREATED="1398321978975" MODIFIED="1411428998969"/>
 </node>
 </node>
@@ -366,7 +366,6 @@
   </body>
 </html>
 </richcontent>
-<node TEXT="Change categories" ID="ID_1911632822" CREATED="1413406569375" MODIFIED="1413406580250">
 <node ID="ID_988674220" CREATED="1413406580675" MODIFIED="1413406641912"><richcontent TYPE="NODE">
 
 <html>
@@ -385,8 +384,10 @@
     </p>
   </body>
 </html>
-
 </richcontent>
+<node TEXT="Korea" ID="ID_1839380473" CREATED="1413480571963" MODIFIED="1413480575080">
+<node TEXT="&lt;$3000 to implement" ID="ID_1364257022" CREATED="1413480575266" MODIFIED="1413480734770"/>
+</node>
 </node>
 <node ID="ID_1238079076" CREATED="1413406797903" MODIFIED="1413406836496"><richcontent TYPE="NODE">
 
@@ -400,8 +401,10 @@
     </p>
   </body>
 </html>
-
 </richcontent>
+<node TEXT="Korea" ID="ID_1206198841" CREATED="1413480588920" MODIFIED="1413480593985">
+<node TEXT="require approval" ID="ID_1254625014" CREATED="1413480597823" MODIFIED="1413480610864"/>
+</node>
 </node>
 <node ID="ID_606027136" CREATED="1413407980500" MODIFIED="1413407999615"><richcontent TYPE="NODE">
 
@@ -415,8 +418,12 @@
     </p>
   </body>
 </html>
-
 </richcontent>
+<node TEXT="Korea" ID="ID_361778562" CREATED="1413480617545" MODIFIED="1413480620376">
+<node TEXT="&gt;$100,000 or 40 staff hours to implement" ID="ID_189666405" CREATED="1413480621523" MODIFIED="1413480738873"/>
+<node TEXT="have the potential to impact one or more VIPs" ID="ID_952546601" CREATED="1413480668552" MODIFIED="1413480685780"/>
+<node TEXT="theater-wide missions" ID="ID_1493297380" CREATED="1413480686105" MODIFIED="1413480692236"/>
+</node>
 </node>
 <node ID="ID_1088571031" CREATED="1413407984333" MODIFIED="1413407992402"><richcontent TYPE="NODE">
 
@@ -430,9 +437,7 @@
     </p>
   </body>
 </html>
-
 </richcontent>
-</node>
 </node>
 </node>
 <node ID="ID_789008048" CREATED="1411428881939" MODIFIED="1411503440460"><richcontent TYPE="NODE">
@@ -503,6 +508,23 @@
 </html>
 </richcontent>
 </node>
+<node ID="ID_267507082" CREATED="1413835341535" MODIFIED="1413835414437"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Critical Success Factor (CSF):</b>
+    </p>
+    <p>
+      Something that must happen if a Process, Project, Plan, or IT Service is to succeed. KPIs are&#160;&#160;used to measure achievement of each CSF.
+    </p>
+  </body>
+</html>
+
+</richcontent>
 <node ID="ID_206881347" CREATED="1411503565920" MODIFIED="1411503601296"><richcontent TYPE="NODE">
 
 <html>
@@ -519,6 +541,7 @@
   </body>
 </html>
 </richcontent>
+</node>
 </node>
 </node>
 </node>
